@@ -1,6 +1,6 @@
 # neighborhood-profiles
 ## Objective
-Neighborhood prfiles gives a summary analysis of ACS and LED data for all 72 of New ORleans' neighborhoods.
+Neighborhood profiles gives a summary analysis of ACS and LED data for all 72 of New Orleans' neighborhoods.
 
 ## Contents
 
